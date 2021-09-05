@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm CHAITANY JANMALE</h1>
-<h3 align="center">TRYING TO BUILD COOL STUFF TO CONTRIBUTE SOME AMOUNT TO SOCIATY</h3>
+<h3 align="center">TRYING TO BUILD COOL STUFF TO CONTRIBUTE SOME AMOUNT TO SOCIETY</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
